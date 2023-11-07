@@ -1,0 +1,21 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "Primo progetto con node ed npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sim-sal/node-hello-world.git)"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "npx"
+  ],
+  "author": "Simone Saladino",
+  "license": "ISC"
+}
